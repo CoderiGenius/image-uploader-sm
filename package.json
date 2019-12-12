@@ -2,7 +2,7 @@
   "name": "image-uploader-sm",
   "main": "./lib/image-uploader-sm",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "An Atom package that can automatically upload images from clipboard to http://sm.ms while writing markdown.",
   "keywords": [
   ],
   "activationCommands": {
