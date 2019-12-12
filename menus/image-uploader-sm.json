@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle image-uploader-sm",
+        "command": "image-uploader-sm:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "image-uploader-sm",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "image-uploader-sm:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
